@@ -1,4 +1,4 @@
 # OSMF
-Open Source Mobile Phone
+**Open Source Mobile Phone**
 
-**Attempt at designing building a simple working mobile phone**
+Attempt at designing building a simple working mobile phone.
