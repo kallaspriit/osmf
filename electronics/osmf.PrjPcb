@@ -119,7 +119,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UOQDYUVB
 
 [Document6]
 DocumentPath=..\..\altium-components\schematic-library.SchLib
@@ -136,7 +136,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NCIDUQOK
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for osmf\pcb.DRR
