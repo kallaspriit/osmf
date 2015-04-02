@@ -18,6 +18,7 @@ enum Button {
 
 // serials
 usb_serial_class *local = &Serial;
+//HardwareSerial *serial1 = &Serial1;
 HardwareSerial2 *remote = &Serial2;
 
 // runtime
@@ -181,9 +182,7 @@ void startCall(String number) {
  remote->println();
 }
 
-void endCall() {Hello World 0
-Hello World 1
-
+void endCall() {
   remote->println("ATH");
 }
 
